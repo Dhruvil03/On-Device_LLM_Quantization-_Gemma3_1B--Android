@@ -1,0 +1,62 @@
+[
+  {
+    "prompt": "What's the capital of France?",
+    "output": "What's the capital of France?\n\nThe capital of France is Paris.\n\nThe answer is Paris.\n\n\nYou are right to ask a question! That's a great question.\n\nThe capital of France is indeed Paris.\n\nI'm glad I could help you!\n\nDo you want to know more"
+  },
+  {
+    "prompt": "Who wrote the novel 'Pride and Prejudice'?",
+    "output": "Who wrote the novel 'Pride and Prejudice'?\n\nThe novel 'Pride and Prejudice' was written by Jane Austen.\n\nThe novel 'Pride and Prejudice' was written by Jane Austen.\n\nThe novel 'Pride and Prejudice' was written by Jane Austen.\n\nThe novel 'Pride and Prejudice' was written by Jane Austen.\n\nThe novel '"
+  },
+  {
+    "prompt": "What is the chemical symbol for gold?",
+    "output": "What is the chemical symbol for gold?\n\nThe chemical symbol for gold is Au.\n\nThe chemical formula for gold is Au.\n\nThe chemical formula for gold is Au.\n\nThe chemical formula for gold is Au.\n\nThe chemical formula for gold is Au.\n\nThe chemical formula for gold is Au.\n\nThe chemical formula for gold"
+  },
+  {
+    "prompt": "In what year did World War II end?",
+    "output": "In what year did World War II end?\n\nWorld War II ended in 1945.\n\nThe date for the end of World War II is Vistice 1945.\n\nThe end of the war was marked by the surrender of the Axis powers.\n\nThe date for the end of the war is Vistice "
+  },
+  {
+    "prompt": "If a train leaves at 3pm going 60mph and travels for 2.5 hours, how far does it go?",
+    "output": "If a train leaves at 3pm going 60mph and travels for 2.5 hours, how far does it go?\n\nLet $d$ be the distance in miles that the train travels.\nThe train travels at a speed of 60 miles per hour.\nThe distance is given by the formula:\nDistance = Speed \u00d7 Time\nIn this case, the train travels for 2.5 hours at"
+  },
+  {
+    "prompt": "A store has 120 apples. They sell 45 in the morning and 30 in the afternoon. How many are left?",
+    "output": "A store has 120 apples. They sell 45 in the morning and 30 in the afternoon. How many are left?\n\nLet $A$ be the total number of apples the store has.\nInitially, $A = 120$.\nIn the morning, the store sells 45 apples. So the number of apples left is $120 - 45 = 75$.\n"
+  },
+  {
+    "prompt": "If all cats are mammals, and all mammals are animals, are all cats animals? Explain briefly.",
+    "output": "If all cats are mammals, and all mammals are animals, are all cats animals? Explain briefly.\n\nThe answer is yes.\n\nHere's why:\n\n*   **Premise 1:** All cats are mammals.** This means cats share characteristics with mammals (e.g., they give birth to kittens, they nurse their young).\n*   **Premise 2:** All mammals"
+  },
+  {
+    "prompt": "What is 17 multiplied by 6?",
+    "output": "What is 17 multiplied by 6?\n\nFirst, let's find the value of 17.\n17 is already written as 10 + 7.\nSo, 17 is 10 + 7.\n\nNow, let's multiply 17 by 6.\n17 *"
+  },
+  {
+    "prompt": "Write two sentences about autumn.",
+    "output": "Write two sentences about autumn.\n\nThe leaves are falling in vibrant shades of red, orange, and yellow, creating a beautiful and dramatic display as autumn approaches.\n\nThe crisp air and cooler temperatures signal the start of the holiday season with its cozy sweaters and pumpkin-flavored treats.\n\nHere are some more details about autumn:\n\n"
+  },
+  {
+    "prompt": "Describe a good cup of coffee in one sentence.",
+    "output": "Describe a good cup of coffee in one sentence.\n\nA truly exceptional cup of coffee offers an explosion of flavors \u2013 a complex and layered experience with notes of dark chocolate, caramel, and subtle citrus zest that linger on the palate and provide a warm, comforting feeling.\u201d\n\nHere\u2019s why this is a good response:\n\n* **Sensory Language"
+  },
+  {
+    "prompt": "Give me three tips for staying focused while studying.",
+    "output": "Give me three tips for staying focused while studying.\n\nHere are three tips for staying focused while studying:\n\n1.  **Break down large tasks:**  Instead of tackling a huge project with just a blank slate, break it down into smaller, more manageable steps. This makes it less overwhelming and easier to focus on one thing at a time.**"
+  },
+  {
+    "prompt": "List the primary colors.",
+    "output": "List the primary colors.\n\nThe primary colors are red, yellow, and blue.\n\nThe primary colors are:\n- Red\n- Yellow\n- Blue\n\nThe primary colors are:\n- Red\n- Yellow\n- Blue\n\nThe primary colors are:\n- Red\n- Yellow\n- Blue\n\nThe primary"
+  },
+  {
+    "prompt": "Summarize the plot of Romeo and Juliet in one sentence.",
+    "output": "Summarize the plot of Romeo and Juliet in one sentence.\n\nThe plot of Romeo and Juliet revolves around a bitter feud between two families in Verona, culminating in a tragic massacre when Romeo and Juliet, a Montague, and Juliet's parents, Lord Capulet and Lady Capulet, choose to marry in order to end the conflict and save their loved ones from"
+  },
+  {
+    "prompt": "Explain what photosynthesis is in simple terms.",
+    "output": "Explain what photosynthesis is in simple terms.\n\n**Photosynthesis** is like a plant making its own food!**\n\nHere's a breakdown:\n\n* **Plants** are like tiny food factories.\n* **Plants** take in water and carbon dioxide.\n* **Plants** produce sugar (food) and oxygen.\n*"
+  },
+  {
+    "prompt": "Write a short paragraph (3-4 sentences) about why exercise is important.",
+    "output": "Write a short paragraph (3-4 sentences) about why exercise is important.\n\nPhysical activity is crucial for overall health and well-being. Regular exercise provides numerous benefits, including improved mood, reduced stress, increased energy levels, and better sleep.  Engaging in exercise also promotes a healthier body composition and can contribute to a longer and more vibrant life.\n\n---\n\nThis"
+  }
+]

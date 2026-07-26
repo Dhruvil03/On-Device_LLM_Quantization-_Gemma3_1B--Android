@@ -1,0 +1,6 @@
+quant,run,signature,file_size_mb,init_ms,warmup_avg_ms,inference_avg_ms,inference_min_ms,inference_max_ms,init_mem_mb,overall_mem_mb
+int8_lite_prefill128,1,prefill_128,1020.4,4664.50,1297.91,1083.42,1070.35,1096.49,2603.16,2736.23
+int8_lite_prefill128,2,prefill_128,1020.4,4637.43,1388.40,1104.82,1086.90,1122.74,2400.92,2731.91
+int8_lite_prefill128,3,prefill_128,1020.4,4636.40,1108.03,1070.19,1069.57,1070.81,2604.45,2737.55
+int8_lite_prefill128,4,prefill_128,1020.4,3943.60,1110.00,1067.71,1065.16,1070.27,2508.84,2630.44
+int8_lite_prefill128,5,prefill_128,1020.4,4947.27,1463.39,1084.67,1063.87,1105.47,2186.62,2733.75

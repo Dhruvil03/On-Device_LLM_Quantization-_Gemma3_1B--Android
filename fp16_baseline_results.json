@@ -1,0 +1,62 @@
+[
+  {
+    "prompt": "What's the capital of France?",
+    "fp16_output": "What's the capital of France?\n\nThe capital of France is Paris.\n\n"
+  },
+  {
+    "prompt": "Who wrote the novel 'Pride and Prejudice'?",
+    "fp16_output": "Who wrote the novel 'Pride and Prejudice'?\n\nThe novel 'Pride and Prejudice' was written by Jane Austen.\n\n---\n\n**Explanation:**\n\nJane Austen was a renowned English novelist known for her witty and insightful social commentary, particularly in her novels. 'Pride and Prejudice' is one of her most famous works.\n"
+  },
+  {
+    "prompt": "What is the chemical symbol for gold?",
+    "fp16_output": "What is the chemical symbol for gold?\n\nThe chemical symbol for gold is Au.\n\nFinal Answer: The final answer is $\\boxed{Au}$"
+  },
+  {
+    "prompt": "In what year did World War II end?",
+    "fp16_output": "In what year did World War II end?\n\nWorld War II ended in 1945.\n\nFinal Answer: The final answer is $\\boxed{1945}$"
+  },
+  {
+    "prompt": "If a train leaves at 3pm going 60mph and travels for 2.5 hours, how far does it go?",
+    "fp16_output": "If a train leaves at 3pm going 60mph and travels for 2.5 hours, how far does it go?\n\nLet $d$ be the distance the train travels.\nThe train leaves at 3pm and travels for 2.5 hours.\nThe speed of the train is 60 mph.\nWe can use the formula distance = speed \u00d7 time.\nIn this case, the distance"
+  },
+  {
+    "prompt": "A store has 120 apples. They sell 45 in the morning and 30 in the afternoon. How many are left?",
+    "fp16_output": "A store has 120 apples. They sell 45 in the morning and 30 in the afternoon. How many are left?\n\nLet $A$ be the number of apples the store has initially.\n$A = 120$\nIn the morning, the store sells 45 apples.\nSo the number of apples left is $120 - 45 = 75$.\nIn"
+  },
+  {
+    "prompt": "If all cats are mammals, and all mammals are animals, are all cats animals? Explain briefly.",
+    "fp16_output": "If all cats are mammals, and all mammals are animals, are all cats animals? Explain briefly.\n\n**Answer:** Yes.\n\n**Explanation:**\n\nThis is a classic example of deductive reasoning. We start with established truths (all cats are mammals, all mammals are animals) and then apply those truths to the specific case of cats. Since cats are a subset of mammals, and mammals are a"
+  },
+  {
+    "prompt": "What is 17 multiplied by 6?",
+    "fp16_output": "What is 17 multiplied by 6?\n\nWe can multiply 17 by 6 using the standard multiplication method:\n17 x 6 = (10 + 7) x 6\n= 10 x 6 + 7 x 6\n= 60 + 42\n= 1"
+  },
+  {
+    "prompt": "Write two sentences about autumn.",
+    "fp16_output": "Write two sentences about autumn.\n\nThe leaves of the trees are ablaze with color, signaling the arrival of autumn.  Crisp air and the scent of woodsmoke fill the atmosphere as the season transitions into winter.\n\nHere are some other options for your sentences:\n\n*   Autumn is a time of change and beauty.\n"
+  },
+  {
+    "prompt": "Describe a good cup of coffee in one sentence.",
+    "fp16_output": "Describe a good cup of coffee in one sentence.\n\nA good cup of coffee is a warm, aromatic experience that awakens the senses and delivers a complex, balanced flavor.\n\n---\n\n**Here's a breakdown of why this works:**\n\n* **Concise:** It gets to the point quickly.\n* **Descriptive:** It uses evocative"
+  },
+  {
+    "prompt": "Give me three tips for staying focused while studying.",
+    "fp16_output": "Give me three tips for staying focused while studying.\n\n1.  **Pomodoro Technique:** Work in focused 25-minute intervals, followed by a 5-minute break. After every four \"pomodoros,\" take a longer break (20-30 minutes).\n2.  **Minimize Distractions:** Turn off notifications"
+  },
+  {
+    "prompt": "List the primary colors.",
+    "fp16_output": "List the primary colors.\n\nThe primary colors are red, yellow, and blue.\n\nFinal Answer: The final answer is $\\boxed{red, yellow, blue}$"
+  },
+  {
+    "prompt": "Summarize the plot of Romeo and Juliet in one sentence.",
+    "fp16_output": "Summarize the plot of Romeo and Juliet in one sentence.\n\nRomeo and Juliet, two young lovers from feuding families, fall deeply in love and secretly marry, but their families' hatred leads to a tragic bloodbath.\n\n---\n\nHere's a more detailed summary:\n\nIn Verona, Italy, the Montague and Capulet families are locked in a"
+  },
+  {
+    "prompt": "Explain what photosynthesis is in simple terms.",
+    "fp16_output": "Explain what photosynthesis is in simple terms.\n\nPhotosynthesis is how plants make their own food. They use sunlight, water, and carbon dioxide to create sugar (their food) and oxygen.\n\nDo you understand?\n"
+  },
+  {
+    "prompt": "Write a short paragraph (3-4 sentences) about why exercise is important.",
+    "fp16_output": "Write a short paragraph (3-4 sentences) about why exercise is important.\n\nRegular exercise is crucial for maintaining both physical and mental well-being. It strengthens your body, improves cardiovascular health, and boosts your mood.  Furthermore, exercise can help reduce stress, increase energy levels, and improve sleep quality, leading to a healthier and happier life.\n\n---\n\nDo you"
+  }
+]
